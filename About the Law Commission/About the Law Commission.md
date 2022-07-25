@@ -21,7 +21,7 @@ The Chief Executive is Phillip Golding.
 
 **Geographical Scope**: This consultation applies to the law of England and Wales. 
 
-**Duration of the consultation**: We invite responses from 27 July to 4 November 2022. 
+**Duration of the consultation**: We invite responses from 28 July to 4 November 2022. 
 
 **Responses to the consultation may be submitted**: 
 
