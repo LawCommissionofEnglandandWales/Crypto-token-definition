@@ -5,7 +5,7 @@
   <li>is recognised by the Protocol Rules of the Crypto-token System in which it is instantiated as, at any one time (including by reference to the state of the distributed ledger(s) or structured record(s) and the Protocol Rules relating to state transitions, if applicable):</li>
   <ol>
     <li>capable of being uniquely attached to or associated with a particular Data Address, and</li>
-    <li>capable of Authentication of an operation in respect of the particular instantiation of the data structure (including an operation to effect a change of state of the distributed ledger or structured record).</li>
+    <li>capable of Authentication of an operation in respect of the particular instantiation of the data structure (including, if applicable, an operation to effect a change of state of the distributed ledger or structured record).</li>
   </ol>
 </ol>
 
@@ -20,7 +20,7 @@ In this description the following terms have the following meanings:
 **Protocol Rules** means software code that specifies or embodies rules or algorithms for:
 
 <ol>
-  <li>the generation, Authentication, sending and validation of data within the particular Crypto-token System;</li>
-<li>determining and effecting changes to the distributed ledger or the structured record of the particular Crypto-token System by a process of Authentication such that the state of the relevant distributed ledger or structured record is capable of verification by other participants in the Crypto-token System; and</li>
-<li>determining and effecting changes to the particular Crypto-token System and/or the Protocol Rules themselves.</li>
+  <li>the generation, Authentication, sending and validation of data within     the particular Crypto-token System;</li>
+  <li>determining and effecting changes to the distributed ledger or the      structured record of the particular Crypto-token System by a process of        Authentication such that the state of the relevant distributed ledger or structured record is capable of verification by other participants in the Crypto-token System; and</li>
+  <li>determining and effecting changes to the particular Crypto-token System and/or the Protocol Rules themselves.</li>
 </ol>
